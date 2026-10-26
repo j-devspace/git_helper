@@ -4,7 +4,7 @@
 - 보는 방법: md 미리보기에서 바로 보거나, 아래 원본을 sequencediagram.org에 붙여 넣습니다.
 - 화살표: 실선은 요청, 점선은 응답. 화살표를 받은 쪽이 다음 화살표를 보냅니다.
 - 주황색(sequencediagram.org 원본): 사용자가 말하거나 답하는 순간
-- 구현 및 사용 방법: [README.md](README.md)
+- 구현 및 사용 방법: [README.md](../README.md)
 
 ## 다이어그램 (md에서 바로 보기)
 
